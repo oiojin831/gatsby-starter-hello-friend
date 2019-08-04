@@ -14,6 +14,9 @@ We all know how hard is to start something on the web, especially these days. Yo
 This starter is pretty basic and covers all of the essentials. All you have to do is start typing!
 
 The starter includes:
+`https://youtu.be/0FQN5I-wqFY`
+`https://youtu.be/bWEWUZuS-yc`
+
 
 - **light/dark mode**, depending on your preferences
 - great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
